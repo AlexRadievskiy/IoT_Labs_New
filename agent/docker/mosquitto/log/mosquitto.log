@@ -236,3 +236,10 @@
 1740313241: Client auto-CC8C7D00-229F-5F64-574F-F07E2F76B9F6 closed its connection.
 1740313241: mosquitto version 2.0.20 terminating
 1740313241: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1740766827: mosquitto version 2.0.20 starting
+1740766827: Config loaded from /mosquitto/config/mosquitto.conf.
+1740766827: Opening ipv4 listen socket on port 1883.
+1740766827: Opening ipv6 listen socket on port 1883.
+1740766827: mosquitto version 2.0.20 running
+1740766827: New connection from 172.20.0.3:38967 on port 1883.
+1740766827: New client connected from 172.20.0.3:38967 as auto-DCE63F3A-DBA3-74B1-86FD-59C1D14A1106 (p2, c1, k60).
